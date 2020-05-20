@@ -1,11 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75060bb6-1302-46f5-b635-4e76ef75a0ab" name="Default Changelist" comment="" />
+    <list default="true" id="75060bb6-1302-46f5-b635-4e76ef75a0ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gen_Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/final_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AES.py" beforeDir="false" afterPath="$PROJECT_DIR$/AES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client.py" beforeDir="false" afterPath="$PROJECT_DIR$/Client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Download/download_九色鹿读后感200字.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Key-FID.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Key-FID.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/0Gb62QBJHrn1uINU.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/0tMHVBd5YDpjGcUF.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/1CRpTKzJeY6HavW2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/1fl5xXYvV2HrPB07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/2KHQhaxI9PoRSt8e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/2dh6gtkecuzQaUEs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/3AF1lEXZN2KrdYbo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/3JSqstGICZedpvju.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/3UDtAXIGy4PKEqfh.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/4n5VrE1wZxa6iYJL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/5vmyu4glTFPjJ1Z3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/5wku3FvoshliJ4gV.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/5yuqezg9Z2E0NPo7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/67oe9iasCh1wUrT8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/6eLPy9sXO3KBEkxQ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/6i1Xv2C5HQmjGKI3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/6vTFHMSWmXKnIj3V.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/74JfWNCs89xRT6wk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/7IdjP0GJK5mFZSkE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/8VRZbo5nHXBDkLIs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/8Xm0O5a2fvCLdxNI.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/8ckBMNpPawHqdXWO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/941pcxMPQf8jlCYF.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/9ZUsqeNWI6Jz04AK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/9ZprzswnktUaBFA7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/A9SkDLeBmsK8pwRJ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/Amlv8hkBzioOG27Q.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/BAVeSgrhPcJ5pD1L.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/D4PQeEN8Bfod60wI.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/DNS35GCXOgVP1tFY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/DWRJb4KNxIVCiZp9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/FI6OxV5SasYD7kiR.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/Fn729GOaKBsdmq0U.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/G6uNYXnB9QxA8WPj.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/GlLWiMtbdSTy9wJ5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/HV6pREkcgt7vuGnF.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/HjMaJPAL5CiZF3RK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/IXJuD1PSfZV60gNF.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/JNXhEuntDvzd3RZw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/JekdSa7MCDIGB1EH.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/Jhp2kOHaojKmEiZx.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/KbO6HoaURYw8sh0x.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/LK6jn1lU9de5BJNE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/Lviu36ClBVXS75FN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/N6vpswBZVle4gEum.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/NpKBRTLn2fejJvEW.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/O3Euj7IManrADsb1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/OGwC7xiWua4ZjJlH.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/OJr95iXcSu0zIpk4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/Ok4a6UYyzFvim3s7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/OsA8d7XqZFrJhbKl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/P3Tx49USaoDA2QLp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/QO6ySF8b3MiAV5Bp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/ROhfmd4s3N7XALQC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/S2kvhqmCFbEgPyJi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/Sizoj9QFIDP1u4wv.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/T49tDqiFSUXofGb8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/TZ1XpOwzkErDWIiU.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/TZopJt2lLG5uHDIk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/TuoDtqAYbprX6CFJ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/VQCEymhZtS0nLj9s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/Vh4kC3Wfo7jRanTQ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/WUzZtvDs6Sjc1IMX.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/XLnUNaJHWmh7TZMd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/Xc8ygNatErFvBnJm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/a4Nz9lOVdLbQhMgf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/aLAKzwEhH180PMo9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/ah423dVkXS7CNA6j.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/an3ZGo8HhzRBJNrg.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/bJsvXw7ZdiqjSK31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/c4ktlUH31CAZhfbp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/cLt0NqdzT8vOsfY1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/ceK1jFIrbit7mf28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/d0sEZM9W7t8TaHfg.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/dH97bYgyBSf0w5Cu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/e9hc57tu8YZXKEkT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/eZMEHNI59sfJQ7pu.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/encrypted_index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Sever/encrypted_index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/f1KuZHYVAaydtDcn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/file_index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Sever/file_index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/gaXqNktFZhAJQos5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/gomcsvky9MOehYD3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/huM2R6sKo1UPGy7Q.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/i3LjuYHNzCkc0l5q.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/i8ODn6sMKrhV1AJ5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/iFURZWMwaEPnzqb3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/idO9FLMmwc3JE5p0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/j6DCvONIby3qxfM9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/j75R4iVfB9nzEwFk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/j8wLuSyg6OnMFhEl.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/jhFcDvabnieOWgd5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/kFSUlI7izRZgxDqC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/kKeYQ52tOqxzgWra.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/ka8OBTxXHnDMZKp1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/klWIGNEqYH7JibcB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/l0oEfTWtgQyMD7s3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/ln8JXRbF0gU4jrkN.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/mBrW0IXG4wztRhjL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/n4lyh2xpJEHeOfYZ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/nTEQLAhkDu7fwcOy.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/oKBASJYayEfDP8Cm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/pGlRqjAthyb2c0OX.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/qjHF5bDeivQMR0px.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/sNbIUjLe90Qwl8Wg.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/sgEMfVSakFPoXRN7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/tASE1uz3Z5fLM6TJ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/tPoeGV17qObWvKY4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/u4BskYnvEbSI7Q0F.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/uHqgahw7GKtvzDP3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/ujHetNxG2I9Q4oYm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/vJLiu0rZlwQq4pfn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/vjoL7dfg4kPn93WF.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/vmnlPBQ7M2zXH93I.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/vt9p5MTQ8WwA6g1E.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/vwoBpnRjaS9VGImJ.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/wHBS7le8NfC4AauY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/wgbStvJyXP6CRZnL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/xThceGVtRLAq3QkU.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/xcYSaVoj73lIy2dG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/xdslNhqivY7tK0Lm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/xfmdW63UyDpcbBFa.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/xtoUJVhZP6pHO7N3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/y2LoqY8KEsj3HDFS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/z0cWR7f4xEkXguZK.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sever/zP5dmWKlCJqRejGb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/encrypted_index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/encrypted_index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encrypted_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/encrypted_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/init_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/init_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyword_extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyword_extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mid_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/mid_index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plaintext_index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/plaintext_index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/query.py" beforeDir="false" afterPath="$PROJECT_DIR$/query.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testg.py" beforeDir="false" afterPath="$PROJECT_DIR$/testg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/文件爬取.py" beforeDir="false" afterPath="$PROJECT_DIR$/文件爬取.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/样本文件集/ 读《给教师的一百条建议》有感.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Fuzzy Keywords Search" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,7 +161,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZLGGBvhZezlDsJr37sSxaWSeuN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +173,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -55,6 +207,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Gen_Index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="毕设项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Gen_Index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="毕设项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="毕设项目" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +264,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,42 +295,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ts_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="毕设项目" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ts_client.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.testg" />
-      <item itemvalue="Python.ts_client" />
+      <item itemvalue="Python.Gen_Index" />
       <item itemvalue="Python.Server" />
       <item itemvalue="Python.Client" />
-      <item itemvalue="Python.main" />
+      <item itemvalue="Python.testg" />
+      <item itemvalue="Python.test2" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Client" />
         <item itemvalue="Python.Server" />
         <item itemvalue="Python.testg" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.ts_client" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.Gen_Index" />
       </list>
     </recent_temporary>
   </component>
@@ -200,17 +352,29 @@
       <workItem from="1587988926110" duration="5599000" />
       <workItem from="1588041476144" duration="3033000" />
       <workItem from="1588053843703" duration="6371000" />
+      <workItem from="1589162342330" duration="3615000" />
+      <workItem from="1589168225383" duration="59070000" />
+      <workItem from="1589855513087" duration="13371000" />
+      <workItem from="1589972013119" duration="417000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.新增了编辑距离为2时的模糊集合&#10;2.对三个索引表的构造进行整合为一个文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.新增了编辑距离为2时的模糊集合&#10;2.对三个索引表的构造进行整合为一个文件" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586709043414">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586709043414" />
+    <state x="275" y="0" key="CommitChangelistDialog2" timestamp="1589972425824">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="275" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1589972425824" />
     <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1587978614985">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -219,38 +383,38 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585731331800" />
-    <state width="1237" height="303" key="GridCell.Tab.0.bottom" timestamp="1588060262944">
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom" timestamp="1589889269659">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="303" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588060262944" />
-    <state width="1237" height="303" key="GridCell.Tab.0.center" timestamp="1588060262944">
+    <state width="1237" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589889269659" />
+    <state width="1237" height="189" key="GridCell.Tab.0.center" timestamp="1589889269658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="303" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588060262944" />
-    <state width="1237" height="303" key="GridCell.Tab.0.left" timestamp="1588060262943">
+    <state width="1237" height="189" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589889269658" />
+    <state width="1237" height="189" key="GridCell.Tab.0.left" timestamp="1589889269658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="303" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588060262943" />
-    <state width="1237" height="303" key="GridCell.Tab.0.right" timestamp="1588060262944">
+    <state width="1237" height="189" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589889269658" />
+    <state width="1237" height="189" key="GridCell.Tab.0.right" timestamp="1589889269658">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="303" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588060262944" />
-    <state width="1237" height="282" key="GridCell.Tab.1.bottom" timestamp="1588004867711">
+    <state width="1237" height="189" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589889269658" />
+    <state width="1237" height="2" key="GridCell.Tab.1.bottom" timestamp="1589885574749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="282" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588004867711" />
-    <state width="1237" height="282" key="GridCell.Tab.1.center" timestamp="1588004867710">
+    <state width="1237" height="2" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589885574749" />
+    <state width="1237" height="2" key="GridCell.Tab.1.center" timestamp="1589885574749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="282" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588004867710" />
-    <state width="1237" height="282" key="GridCell.Tab.1.left" timestamp="1588004867710">
+    <state width="1237" height="2" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589885574749" />
+    <state width="1237" height="2" key="GridCell.Tab.1.left" timestamp="1589885574749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="282" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588004867710" />
-    <state width="1237" height="282" key="GridCell.Tab.1.right" timestamp="1588004867710">
+    <state width="1237" height="2" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589885574749" />
+    <state width="1237" height="2" key="GridCell.Tab.1.right" timestamp="1589885574749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="282" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588004867710" />
+    <state width="1237" height="2" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589885574749" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1586226721447">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -259,6 +423,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1587989529328" />
+    <state x="517" y="77" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589972346377">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="517" y="77" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1280.680@0.0.1280.680" timestamp="1589972346377" />
+    <state x="195" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589276185255">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="195" y="77" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1589276185255" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587889688172">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -287,24 +459,30 @@
     <SUITE FILE_PATH="coverage/$gen_file.coverage" NAME="gen_file Coverage Results" MODIFIED="1585645373914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$init_index__1_.coverage" NAME="init_index (1) Coverage Results" MODIFIED="1587636955609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$main.coverage" NAME="main Coverage Results" MODIFIED="1587959681146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$Server.coverage" NAME="Server Coverage Results" MODIFIED="1588053891765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$Server.coverage" NAME="Server Coverage Results" MODIFIED="1589885629481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$keyword_extraction.coverage" NAME="keyword_extraction Coverage Results" MODIFIED="1585894557114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$bloomfilter.coverage" NAME="bloomfilter Coverage Results" MODIFIED="1585998951588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$final_test.coverage" NAME="final_test Coverage Results" MODIFIED="1589855735487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$ts_client.coverage" NAME="ts_client Coverage Results" MODIFIED="1587913638878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$file_encrypt.coverage" NAME="file_encrypt Coverage Results" MODIFIED="1586086810422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$Gen_Index.coverage" NAME="Gen_Index Coverage Results" MODIFIED="1589884451461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$test.coverage" NAME="test Coverage Results" MODIFIED="1586224450904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$testg.coverage" NAME="testg Coverage Results" MODIFIED="1587989680449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$testg.coverage" NAME="testg Coverage Results" MODIFIED="1589885583791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$fuzzy_keyword.coverage" NAME="fuzzy_keyword Coverage Results" MODIFIED="1586187281082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$Client.coverage" NAME="Client Coverage Results" MODIFIED="1588059784266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$Client.coverage" NAME="Client Coverage Results" MODIFIED="1589885728073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$fuzzy_keyword.coverage" NAME="fuzzy_keyword Coverage Results" MODIFIED="1586235838082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$ts_server.coverage" NAME="ts_server Coverage Results" MODIFIED="1587910982578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$query.coverage" NAME="query Coverage Results" MODIFIED="1586237181817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$daily_test.coverage" NAME="daily_test Coverage Results" MODIFIED="1585668396348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1585669461539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$AES.coverage" NAME="AES Coverage Results" MODIFIED="1589862135616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$RSA__1_.coverage" NAME="RSA Coverage Results" MODIFIED="1586710330889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$document__1_.coverage" NAME="document (1) Coverage Results" MODIFIED="1585998984038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$.coverage" NAME="文件爬取 Coverage Results" MODIFIED="1589219151394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$mid_index__1_.coverage" NAME="mid_index (1) Coverage Results" MODIFIED="1587637481425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$keyword_frequency.coverage" NAME="keyword frequency Coverage Results" MODIFIED="1586680085921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$init_index.coverage" NAME="init_index Coverage Results" MODIFIED="1587793640449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1589885522336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$init_index.coverage" NAME="init_index Coverage Results" MODIFIED="1589254961018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Fuzzy_Keywords_Search$mid_index.coverage" NAME="mid_index Coverage Results" MODIFIED="1589255543061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -27,17 +27,17 @@ def quchong(key_list):
     return temp_list
 
 
-def key_fid(temp_list, max_fre):
+def key_fid(temp_list, max_fre, init_path, kf_path):
     """新建一个csv文件存储所有关键字，索引项为【关键字，文件编号列表】"""
     fieldname = ['Keyword', 'FIDS']
-    if not os.path.isfile('D:\\Fuzzy Keywords Search\\Key-FID.csv'):
-        with open('D:\\Fuzzy Keywords Search\\Key-FID.csv', 'w', newline='') as f:
+    if not os.path.isfile(kf_path):
+        with open(kf_path, 'w', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=fieldname)
             writer.writeheader()
 
     for m in temp_list:
         fid_list = ['NULL'] * max_fre  # 这个max_fre是统计出来的关键字出现的最高频率
-        with open('D:\\Fuzzy Keywords Search\\plaintext_index.csv', 'r') as f1:
+        with open(init_path, 'r') as f1:
             reader1 = csv.DictReader(f1)
             p = 0
             for item in reader1:
@@ -47,9 +47,10 @@ def key_fid(temp_list, max_fre):
                     p = p + 1
             str_list = '|'.join(fid_list)
 
-        with open('D:\\Fuzzy Keywords Search\\Key-FID.csv', 'a', newline='') as f:
+        with open(kf_path, 'a', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=['Keyword', 'FIDS'])
             writer.writerow({'Keyword': m, 'FIDS': str_list})
+
 
 
 def fre_kw(key_list):
@@ -61,8 +62,9 @@ def fre_kw(key_list):
 
 
 if __name__ == "__main__":
-    init_path = 'D:\\Fuzzy Keywords Search\\plaintext_index.csv'
+    init_path = 'D:\\Fuzzy Keywords Search\\测试文件夹\\plaintext_index400.csv'
+    kf_path = 'D:\\Fuzzy Keywords Search\\测试文件夹\\Key-FID400.csv'
     key_list = getallfilekw(init_path)
     max_fre = fre_kw(key_list)
     temp_list = quchong(key_list)
-    key_fid(temp_list, max_fre)
+    key_fid(temp_list, max_fre, init_path, kf_path)

@@ -64,8 +64,12 @@ class FileAES:
 if __name__ == '__main__':
     key = os.urandom(16)        # 随即产生n个字节的字节流数据，可以作为随机加密key使用
     text = '中华文化博大精深！'  # 需要加密的内容
-    aes_test = FileAES(key)
-    cipher_text = aes_test.encrypt(text)
-    plain_text = aes_test.decrypt(cipher_text)
-    print('加密后：'+cipher_text)
-    print('解密后：'+plain_text)
+    # aes_test = FileAES(key)
+    # cipher_text = aes_test.encrypt(text)
+    # plain_text = aes_test.decrypt(cipher_text)
+    # print('加密后：'+cipher_text)
+    # print('解密后：'+plain_text)
+    en_text = encrypt(text, key)
+    print(en_text)
+    a = en_text.encode()
+    print(decrypt(a.decode(), key))

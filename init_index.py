@@ -8,7 +8,7 @@ import csv
 
 from keyword_extraction import kwords_extract
 
-path = 'D:\\Fuzzy Keywords Search\\样本文件集'
+
 
 
 def get_filelist(path):
@@ -30,9 +30,10 @@ def add_to_bloomfilter(filter, fuzzylist):
 
 
 if __name__ == "__main__":
+    path = 'D:\\Fuzzy Keywords Search\\测试文件夹\\300'
     fieldname = ['FID', 'Title', 'Keywords', 'Path']
-    if not os.path.isfile('D:\\Fuzzy Keywords Search\\plaintext_index.csv'):
-        with open('D:\\Fuzzy Keywords Search\\plaintext_index.csv', 'w', newline='') as f:
+    if not os.path.isfile('D:\\Fuzzy Keywords Search\\测试文件夹\\plaintext_index300.csv'):
+        with open('D:\\Fuzzy Keywords Search\\测试文件夹\\plaintext_index300.csv', 'w', newline='') as f:
             wr = csv.DictWriter(f, fieldnames=fieldname)
             wr.writeheader()
 
@@ -53,6 +54,6 @@ if __name__ == "__main__":
 
         # 将各个数据存储在csv文件中
         fieldname = ['FID', 'Title', 'Keywords', 'Path']
-        with open('D:\\Fuzzy Keywords Search\\plaintext_index.csv', 'a', newline='') as f:
+        with open('D:\\Fuzzy Keywords Search\\测试文件夹\\plaintext_index300.csv', 'a', newline='', errors='ignore') as f:
             writer = csv.DictWriter(f, fieldnames=fieldname)
             writer.writerow({'FID': fid, 'Title': title, 'Keywords': keywords, 'Path':file_path})

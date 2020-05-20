@@ -2,7 +2,7 @@ from socket import *
 import struct
 import os
 import sys
-
+import datetime
 
 import AES
 from query import *
@@ -20,6 +20,7 @@ def hello_page():
 def search(tcp_client_socket, key):
     while True:
         # 输入关键字，构建陷门集合，并将两者进行传输
+        # starttime = datetime.datetime.now()
         kw = input("请输入搜索关键字（输入exit退出）：")
         if kw == 'exit':
             tcp_client_socket.send(kw.encode())
@@ -53,7 +54,10 @@ def search(tcp_client_socket, key):
                         temp_list.append(i)
                 print('检索结果为：')
                 print(temp_list)
-
+        # endtime = datetime.datetime.now()
+        # print(starttime)
+        # print(endtime)
+        # print((endtime - starttime).total_seconds())
 
 def download(tcp_client_socket, key):
     # 输入要下载的文件编号并传输给服务器
@@ -88,9 +92,10 @@ def download(tcp_client_socket, key):
             de_fn = AES.decrypt(fn, key)
             de_fn = de_fn.strip(b'\x00'.decode())  # 解密出来的字符串末尾有看不见的空字符，编码成字节流时就会发现
             store_path = r'D:\Fuzzy Keywords Search\Download\download_{}'.format(de_fn)
-            filedata = tcp_client_socket.recv(fsize).decode()
+            filedata = tcp_client_socket.recv(fsize).decode(encoding='utf-8')
             de_filedata = AES.decrypt(filedata, key)
-            with open(store_path, 'w') as f:
+            print(de_filedata)
+            with open(store_path, 'w', encoding='utf-8') as f:
                 f.write(de_filedata)
             print("第{}个文件接受完成...\n".format(i))
         print("...共{}个文件接收完成...\n".format(len(fd_list)))

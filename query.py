@@ -10,8 +10,8 @@ from bitarray import bitarray
 import AES
 
 
-def build_trapdoor(word, key):
-    """对查询关键字构建陷门集合"""
+def ed_1(word):
+    """为每个关键字构建模糊集合，默认编辑距离为1"""
     fuzzy_keys = []
     for i in range(len(word)+1):
         pattern = word[:i] + "*" + word[i:]
@@ -19,8 +19,43 @@ def build_trapdoor(word, key):
         if i < len(word):
             pattern = word[:i] + "*" + word[i+1:]
             fuzzy_keys.append(pattern)
-    trapdoor = []
+    return fuzzy_keys
+
+
+def qu_chong(key_list):
+    """对关键字列表去重"""
+    temp_list = []  # 定义一个临时空列表，用于保存临时数据。
+    for i in key_list:  # 遍历原列表，判断如果元素不在临时列表，就追加进去，如果在，就不加。
+        if i not in temp_list and i != '**':
+            temp_list.append(i)
+    return temp_list
+
+
+def ed_2(word):
+    fuzzy_keys = ed_1(word)
+    fuzzy_keys_2 = []
     for i in fuzzy_keys:
+        for k in ed_1(i):
+            fuzzy_keys_2.append(k)
+    fuzzy_keys_2 = qu_chong(fuzzy_keys_2)
+    return fuzzy_keys_2
+
+
+def build_trapdoor(word, key):
+    """对查询关键字构建陷门集合"""
+    # fuzzy_keys = []
+    # for i in range(len(word)+1):
+    #     pattern = word[:i] + "*" + word[i:]
+    #     fuzzy_keys.append(pattern)
+    #     if i < len(word):
+    #         pattern = word[:i] + "*" + word[i+1:]
+    #         fuzzy_keys.append(pattern)
+    list_1 = ed_1(word)
+    list_2 = ed_2(word)
+    trapdoor = []
+    for i in list_1:
+        trapdoor.append(AES.encrypt(i, key))
+    for i in list_2:
         trapdoor.append(AES.encrypt(i, key))
     return trapdoor
 

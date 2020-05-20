@@ -11,7 +11,7 @@ topK:  前几个，默认时20
 
 def kwords_extract(text) -> list:
     """提取文档关键字"""
-    with open(text, encoding = 'ansi') as file_object:
+    with open(text) as file_object:
         kwords = jieba.analyse.extract_tags(file_object.read(), 10)
         # print(kwords)
         # print(len(kwords))
